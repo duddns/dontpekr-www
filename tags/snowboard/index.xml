@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snowboard on Do Not Think!!!</title>
+    <link>/tags/snowboard/</link>
+    <description>Recent content in Snowboard on Do Not Think!!!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jan 2024 22:50:00 +0900</lastBuildDate>
+    <atom:link href="/tags/snowboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1월 13일 Snowboard at 엘리시안 강촌</title>
+      <link>/posts/2024/2024-01-13-snowboard-at-gangchon/</link>
+      <pubDate>Sat, 13 Jan 2024 22:50:00 +0900</pubDate>
+      <guid>/posts/2024/2024-01-13-snowboard-at-gangchon/</guid>
+      <description>1월 13일 엘리시안 강촌 09:00 ~ 11:00</description>
+    </item>
+  </channel>
+</rss>
