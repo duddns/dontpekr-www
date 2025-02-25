@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snowboard on Do Not Think!!!</title>
-    <link>/tags/snowboard/</link>
+    <link>//localhost:1313/tags/snowboard/</link>
     <description>Recent content in Snowboard on Do Not Think!!!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Jan 2024 22:50:00 +0900</lastBuildDate>
-    <atom:link href="/tags/snowboard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/snowboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2324 1월 27일 Snowboard at 엘리시안 강촌</title>
-      <link>/posts/2024/2024-01-27-snowboard-at-gangchon/</link>
+      <link>//localhost:1313/posts/2024/2024-01-27-snowboard-at-gangchon/</link>
       <pubDate>Sat, 27 Jan 2024 22:50:00 +0900</pubDate>
-      <guid>/posts/2024/2024-01-27-snowboard-at-gangchon/</guid>
+      <guid>//localhost:1313/posts/2024/2024-01-27-snowboard-at-gangchon/</guid>
       <description>&lt;h3 id=&#34;1월-13일&#34;&gt;1월 13일&lt;/h3&gt;&#xA;&lt;p&gt;엘리시안 강촌&#xA;09:00 ~ 11:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/1.jpg&#34; alt=&#34;photo1&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2324 1월 13일 Snowboard at 엘리시안 강촌</title>
-      <link>/posts/2024/2024-01-13-snowboard-at-gangchon/</link>
+      <link>//localhost:1313/posts/2024/2024-01-13-snowboard-at-gangchon/</link>
       <pubDate>Sat, 13 Jan 2024 22:50:00 +0900</pubDate>
-      <guid>/posts/2024/2024-01-13-snowboard-at-gangchon/</guid>
+      <guid>//localhost:1313/posts/2024/2024-01-13-snowboard-at-gangchon/</guid>
       <description>&lt;h3 id=&#34;1월-13일&#34;&gt;1월 13일&lt;/h3&gt;&#xA;&lt;p&gt;엘리시안 강촌&#xA;09:00 ~ 11:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/1.jpg&#34; alt=&#34;photo1&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
