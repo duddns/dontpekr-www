@@ -6,20 +6,20 @@
     <description>Recent content in Tags on Do Not Think!!!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Oct 2024 21:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 22:50:00 +0900</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snowboard</title>
+      <link>/tags/snowboard/</link>
+      <pubDate>Sat, 22 Feb 2025 22:50:00 +0900</pubDate>
+      <guid>/tags/snowboard/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Today I Runned</title>
       <link>/tags/today-i-runned/</link>
       <pubDate>Sat, 26 Oct 2024 21:00:00 +0900</pubDate>
       <guid>/tags/today-i-runned/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Snowboard</title>
-      <link>/tags/snowboard/</link>
-      <pubDate>Sat, 27 Jan 2024 22:50:00 +0900</pubDate>
-      <guid>/tags/snowboard/</guid>
       <description></description>
     </item>
   </channel>
