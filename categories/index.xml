@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Do Not Think!!!</title>
-    <link>https://blog.dont.pe.kr/categories/</link>
-    <description>Recent content in Categories on Do Not Think!!!</description>
+    <title>Categories on NT - Do Not Think!!!</title>
+    <link>https://dont.pe.kr/categories/</link>
+    <description>Recent content in Categories on NT - Do Not Think!!!</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <atom:link href="https://blog.dont.pe.kr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dont.pe.kr/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
