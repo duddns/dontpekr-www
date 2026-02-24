@@ -6,8 +6,15 @@
     <description>Recent content in Tags on NT - Do Not Think!!!</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://dont.pe.kr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snowboard</title>
+      <link>https://dont.pe.kr/tags/snowboard/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0900</pubDate>
+      <guid>https://dont.pe.kr/tags/snowboard/</guid>
+      <description></description>
+    </item>
     <item>
       <title>V60cc</title>
       <link>https://dont.pe.kr/tags/v60cc/</link>
@@ -55,13 +62,6 @@
       <link>https://dont.pe.kr/tags/%EC%BB%A4%ED%94%BC/</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0900</pubDate>
       <guid>https://dont.pe.kr/tags/%EC%BB%A4%ED%94%BC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Snowboard</title>
-      <link>https://dont.pe.kr/tags/snowboard/</link>
-      <pubDate>Sat, 08 Mar 2025 00:00:00 +0900</pubDate>
-      <guid>https://dont.pe.kr/tags/snowboard/</guid>
       <description></description>
     </item>
   </channel>
