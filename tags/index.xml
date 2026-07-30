@@ -1,68 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on NT - Do Not Think!!!</title>
-    <link>https://dont.pe.kr/tags/</link>
-    <description>Recent content in Tags on NT - Do Not Think!!!</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Tue, 24 Feb 2026 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://dont.pe.kr/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Snowboard</title>
-      <link>https://dont.pe.kr/tags/snowboard/</link>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0900</pubDate>
-      <guid>https://dont.pe.kr/tags/snowboard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>V60cc</title>
-      <link>https://dont.pe.kr/tags/v60cc/</link>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0900</pubDate>
-      <guid>https://dont.pe.kr/tags/v60cc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Volvo</title>
-      <link>https://dont.pe.kr/tags/volvo/</link>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0900</pubDate>
-      <guid>https://dont.pe.kr/tags/volvo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>마라톤</title>
-      <link>https://dont.pe.kr/tags/%EB%A7%88%EB%9D%BC%ED%86%A4/</link>
-      <pubDate>Sun, 16 Nov 2025 00:00:00 +0900</pubDate>
-      <guid>https://dont.pe.kr/tags/%EB%A7%88%EB%9D%BC%ED%86%A4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chevrolet</title>
-      <link>https://dont.pe.kr/tags/chevrolet/</link>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0900</pubDate>
-      <guid>https://dont.pe.kr/tags/chevrolet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spark</title>
-      <link>https://dont.pe.kr/tags/spark/</link>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0900</pubDate>
-      <guid>https://dont.pe.kr/tags/spark/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>원두</title>
-      <link>https://dont.pe.kr/tags/%EC%9B%90%EB%91%90/</link>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>https://dont.pe.kr/tags/%EC%9B%90%EB%91%90/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>커피</title>
-      <link>https://dont.pe.kr/tags/%EC%BB%A4%ED%94%BC/</link>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>https://dont.pe.kr/tags/%EC%BB%A4%ED%94%BC/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tags on NT - Do Not Think!!!</title>
+		<link>https://dont.pe.kr/tags/</link>
+		<description>Recent content in Tags on NT - Do Not Think!!!</description>
+		<generator>Hugo</generator>
+		<language>ko-kr</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0900</lastBuildDate>
+		
+			<atom:link href="https://dont.pe.kr/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Book</title>
+				<link>https://dont.pe.kr/tags/book/</link>
+				<pubDate>Thu, 30 Jul 2026 00:00:00 +0900</pubDate>
+				<guid>https://dont.pe.kr/tags/book/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>침묵의 세계 100일 필사집</title>
+				<link>https://dont.pe.kr/tags/%EC%B9%A8%EB%AC%B5%EC%9D%98-%EC%84%B8%EA%B3%84-100%EC%9D%BC-%ED%95%84%EC%82%AC%EC%A7%91/</link>
+				<pubDate>Thu, 30 Jul 2026 00:00:00 +0900</pubDate>
+				<guid>https://dont.pe.kr/tags/%EC%B9%A8%EB%AC%B5%EC%9D%98-%EC%84%B8%EA%B3%84-100%EC%9D%BC-%ED%95%84%EC%82%AC%EC%A7%91/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Snowboard</title>
+				<link>https://dont.pe.kr/tags/snowboard/</link>
+				<pubDate>Tue, 24 Feb 2026 00:00:00 +0900</pubDate>
+				<guid>https://dont.pe.kr/tags/snowboard/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>V60cc</title>
+				<link>https://dont.pe.kr/tags/v60cc/</link>
+				<pubDate>Sat, 06 Dec 2025 00:00:00 +0900</pubDate>
+				<guid>https://dont.pe.kr/tags/v60cc/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Volvo</title>
+				<link>https://dont.pe.kr/tags/volvo/</link>
+				<pubDate>Sat, 06 Dec 2025 00:00:00 +0900</pubDate>
+				<guid>https://dont.pe.kr/tags/volvo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>마라톤</title>
+				<link>https://dont.pe.kr/tags/%EB%A7%88%EB%9D%BC%ED%86%A4/</link>
+				<pubDate>Sun, 16 Nov 2025 00:00:00 +0900</pubDate>
+				<guid>https://dont.pe.kr/tags/%EB%A7%88%EB%9D%BC%ED%86%A4/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Chevrolet</title>
+				<link>https://dont.pe.kr/tags/chevrolet/</link>
+				<pubDate>Fri, 19 Sep 2025 00:00:00 +0900</pubDate>
+				<guid>https://dont.pe.kr/tags/chevrolet/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Spark</title>
+				<link>https://dont.pe.kr/tags/spark/</link>
+				<pubDate>Fri, 19 Sep 2025 00:00:00 +0900</pubDate>
+				<guid>https://dont.pe.kr/tags/spark/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>원두</title>
+				<link>https://dont.pe.kr/tags/%EC%9B%90%EB%91%90/</link>
+				<pubDate>Tue, 22 Apr 2025 00:00:00 +0900</pubDate>
+				<guid>https://dont.pe.kr/tags/%EC%9B%90%EB%91%90/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>커피</title>
+				<link>https://dont.pe.kr/tags/%EC%BB%A4%ED%94%BC/</link>
+				<pubDate>Tue, 22 Apr 2025 00:00:00 +0900</pubDate>
+				<guid>https://dont.pe.kr/tags/%EC%BB%A4%ED%94%BC/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
